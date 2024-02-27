@@ -32,7 +32,6 @@ The following **additional** features are implemented:
 
 https://www.loom.com/share/9d343d2fb93d426ba659ff2a9b73d403
 
-   https://cdn.loom.com/sessions/thumbnails/9d343d2fb93d426ba659ff2a9b73d403-1709052997863-with-play.gif 
 
 
 
